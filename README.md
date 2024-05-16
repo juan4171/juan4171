@@ -1,5 +1,5 @@
 ## 🌎💻 Hello world! 💻🌍
-My name is Juan, and I'm from La Plata, Buenos Aires (ARG).
+My name is Juan and I'm from La Plata, Buenos Aires (ARG).
 
 💻 Average IT enjoyer creating bugs since 2019.
 
@@ -7,7 +7,6 @@ My name is Juan, and I'm from La Plata, Buenos Aires (ARG).
 
 -----------------------
 ### My tools:
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
