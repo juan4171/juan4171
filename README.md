@@ -1,10 +1,12 @@
 ## 🌎💻 Hello world! 💻🌍
-*My name is Juan and Ive been creating bugs since 1999 from La Plata, Buenos Aires (ARG)*
+My name is Juan, and I'm from La Plata, Buenos Aires (ARG).
 
-💻 IT student, currently learning Backend Web Development.
+💻 Average IT enjoyer creating bugs since 2019.
+
+💻 Currently learning Backend Web Development.
 
 -----------------------
-### 🔧 My tools:
+### My tools:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
@@ -23,9 +25,9 @@
 ### Reach me:
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-montalivet/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="75">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="70">
   </a>
   <a href="https://www.instagram.com/juahse/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="75">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="70">
   </a>
 </div>
