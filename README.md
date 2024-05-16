@@ -1,7 +1,7 @@
-## :tw-1f30e: Hello world! :tw-1f30d: 
+## 🌎💻 Hello world! 💻🌍
 *My name is Juan and Ive been creating bugs since 1999 from La Plata, Buenos Aires (ARG)*
 
-:tw-1f4bb: IT student, currently learning Backend Web Development.
+💻 IT student, currently learning Backend Web Development.
 
 -----------------------
 ### 🔧 My tools:
@@ -18,12 +18,12 @@
 
 -----------------------
 
-###Reach me!  
+### Reach me:
 <div align="center">
-  <a href="https://www.linkedin.com/juan-montalivet/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  <a href="https://www.linkedin.com/in/juan-montalivet/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="75">
   </a>
   <a href="https://www.instagram.com/juahse/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="75">
   </a>
 </div>
