@@ -30,3 +30,10 @@ My name is Juan and I'm from La Plata, Buenos Aires (ARG).
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="70">
   </a>
 </div>
+
+<details>
+  <summary>📖</summary>
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan4171)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub metrics](https://metrics.lecoq.io/juan4171) 
+</details>
