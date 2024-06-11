@@ -34,9 +34,7 @@ My name is Juan and I'm from La Plata, Buenos Aires (ARG).
 <details>
   <summary>📖</summary>
   <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan4171)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/juan4171)  
+  ![GitHub metrics](https://metrics.lecoq.io/juan4171)  
 
 </details>
