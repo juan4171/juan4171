@@ -34,7 +34,9 @@ My name is Juan and I'm from La Plata, Buenos Aires (ARG).
 <details>
   <summary>📖</summary>
   <br>
-
+  ![Profile_details_card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juan4171&theme=2077)
+  ![Languages_By_Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juan4171&theme=2077)
+  ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juan4171&theme=2077)
   ![GitHub metrics](https://metrics.lecoq.io/juan4171)  
 
 </details>
