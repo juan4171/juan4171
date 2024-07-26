@@ -37,5 +37,5 @@ My name is Juan and I'm from La Plata, Buenos Aires (ARG).
   ![Stars](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juan4171&theme=gotham)
   ![Languages_By_Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juan4171&theme=gotham)
 
-  programo escuchando: https://open.spotify.com/playlist/1AvMdiTQWF3VclmJwGf02A?si=c87db56412f5406e
+  Programo escuchando: https://open.spotify.com/playlist/1AvMdiTQWF3VclmJwGf02A?si=c87db56412f5406e
 </details>
